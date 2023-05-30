@@ -30,7 +30,8 @@ When you can’t think of anything on your own, search! Find answers and try the
   <li>Code that isn’t consistent</li>
   <li>The changes that will bring you a lot of value and require little effort are better than those that will bring little value and require a lot of effort.</li>
 </ol>
-**************************************************************************
+*************************************************************************
 
-![ltuc](../my-notes/assets/img/ltuc.png "img")
+![ltuc]( ../my-notes/img/ltuc.png    "img")
+<br>
  The end
