@@ -32,6 +32,9 @@ When you can’t think of anything on your own, search! Find answers and try the
 </ol>
 *************************************************************************
 
-![ltuc]( ../my-notes/img/ltuc.png    "img")
+
 <br>
+
+![img](./img/ltuc.png "img")
+
  The end
